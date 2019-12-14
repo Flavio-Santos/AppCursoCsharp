@@ -1,0 +1,11 @@
+C:\estudos\C_sharp\AppCursoNelio\AppCursoNelio\bin\Debug\netcoreapp3.0\AppCursoNelio.exe
+C:\estudos\C_sharp\AppCursoNelio\AppCursoNelio\bin\Debug\netcoreapp3.0\AppCursoNelio.deps.json
+C:\estudos\C_sharp\AppCursoNelio\AppCursoNelio\bin\Debug\netcoreapp3.0\AppCursoNelio.runtimeconfig.json
+C:\estudos\C_sharp\AppCursoNelio\AppCursoNelio\bin\Debug\netcoreapp3.0\AppCursoNelio.runtimeconfig.dev.json
+C:\estudos\C_sharp\AppCursoNelio\AppCursoNelio\bin\Debug\netcoreapp3.0\AppCursoNelio.dll
+C:\estudos\C_sharp\AppCursoNelio\AppCursoNelio\bin\Debug\netcoreapp3.0\AppCursoNelio.pdb
+C:\estudos\C_sharp\AppCursoNelio\AppCursoNelio\obj\Debug\netcoreapp3.0\AppCursoNelio.csprojAssemblyReference.cache
+C:\estudos\C_sharp\AppCursoNelio\AppCursoNelio\obj\Debug\netcoreapp3.0\AppCursoNelio.AssemblyInfoInputs.cache
+C:\estudos\C_sharp\AppCursoNelio\AppCursoNelio\obj\Debug\netcoreapp3.0\AppCursoNelio.AssemblyInfo.cs
+C:\estudos\C_sharp\AppCursoNelio\AppCursoNelio\obj\Debug\netcoreapp3.0\AppCursoNelio.dll
+C:\estudos\C_sharp\AppCursoNelio\AppCursoNelio\obj\Debug\netcoreapp3.0\AppCursoNelio.pdb
