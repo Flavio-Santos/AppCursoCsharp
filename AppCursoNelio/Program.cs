@@ -1,5 +1,6 @@
 ﻿
 using System;
+using System.Globalization;
 
 namespace AppCursoNelio
 {
@@ -34,6 +35,21 @@ namespace AppCursoNelio
             Console.WriteLine(num2);
             Console.WriteLine(num3);
             Console.WriteLine(gender);
+
+            
+            // with coma 
+            Console.WriteLine(n5.ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine(gender);
+
+
+            int idade = 32;
+            double saldo = 100.00;
+            string nome= "maria";
+
+            Console.WriteLine("{0} tem {1} e tem saldo igual a: {2:F1}", nome, idade, saldo);
+            Console.WriteLine($"{nome} tem {idade} e tem saldo igual a: {saldo:F1}");
+            Console.WriteLine(nome + " tem" + idade + " e tem saldo igual a:" + saldo);
+
         }
     }
 }
